@@ -1,4 +1,4 @@
-# jwt-authentication-assignment-intershala
+# jwt-authentication-assignment
 Assignment implementing jwt for intershala
 
 ## Table of Contents
