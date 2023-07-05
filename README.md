@@ -4,10 +4,11 @@ Assignment implementing jwt for intershala
 ## Table of Contents
 
 - [About](#about)
-- [Dependencies Used](#dependencies-used)
 - [Getting Started](#getting-started)
+- [Dependencies Used](#dependencies-used)
 - [Endpoints](#endppoints)
 - [Testing](#testing)
+- [Contact](#contact)
 
 ## About
 
@@ -69,12 +70,14 @@ Installation Steps:
 - org.hibernate.validator:hibernate-validator:6.2.0.Final
 
 ## Endpoints
+
 -//http://localhost:8080/auth/create-user<br/>
 -//http://localhost:8080/auth/login<br/>
 -//http://localhost:8080/home/users<br/>
 -//http://localhost:8080/home/current-user<br/>
 
 ## Testing
+
 1. open postman or browser and paste.
 2. http://localhost:8080/auth/create-user<br/>
    METHOD:POST<br/>
