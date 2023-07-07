@@ -1,5 +1,5 @@
 # jwt-authentication-assignment
-Assignment implementing jwt for intershala
+Assignment implementing jwt
 
 ## Table of Contents
 
