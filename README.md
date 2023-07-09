@@ -29,6 +29,7 @@ This project implements JSON Web Token (JWT) authentication for user registratio
 - JSON Web Tokens (JWT): JWT is used for creating and validating tokens for user authentication.
 - Database:H2 Dtatbase.
 - PORT NUMBER:8080(can be changed in application.properties(spring.h2.console.settings.web-port=protno))
+- Add lombok jar to project
 
 ## Getting Started
 
